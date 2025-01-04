@@ -1,6 +1,6 @@
 # KPMG AU Data Analytics Job Simulation
 ## Introduction
-This project showcases my solutions and insights gained from the virtual internship program offered by KPMG through Forage. This repository contains various tasks and projects completed during the job simulation, focusing on key data analytics skills such as data quality assessment, data insights, and data visualization. The primary objective is to assist Sprocket Central Pty Ltd in optimizing their marketing strategies through effective data analysis.
+This project showcases my solutions and insights gained from the virtual internship program offered by KPMG through Forage. This repository contains various tasks and projects completed during the job simulation, focusing on key data analytics skills such as data quality assessment, insights, and visualization. The primary objective is to assist Sprocket Central Pty Ltd optimize its marketing strategies through effective data analysis.
 ## Task 1: Data Quality Assessment
 + Analyze the provided datasets to identify data quality issues.
 + Draft a report highlighting the findings and recommendations for data cleaning.
@@ -16,8 +16,8 @@ This project showcases my solutions and insights gained from the virtual interns
 + Data Visualization: Tableau
 + Presentation: Microsoft PowerPoint
 ## Usage
-- **Data Analysis**: Use **Excel** for cleaning and analysis; run Python scripts for advanced tasks.
-- **Visualization**: Create dashboards in **Tableau** and charts in Excel.
+- **Data Analysis**: Use **Excel** for cleaning and analysis.
+- **Visualization**: Create dashboards in **Tableau**.
 - **Presentation**: Compile findings in **PowerPoint**.
 ## Contributor
 Tolulope Olarewaju
